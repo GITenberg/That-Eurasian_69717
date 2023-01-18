@@ -1,0 +1,26 @@
+_repo: That-Eurasian_69717
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bey, Aleph
+    gutenberg_agent_id: '55386'
+    url: http://www.gutenberg.org/2009/agents/55386
+description: ''
+gutenberg_issued: '2023-01-06'
+identifiers:
+  gutenberg: '69717'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uva.x030794984
+pgterms:marc905: 20200616164820bey
+pgterms:marc906: '1895'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: 'United States: F. Tennyson Neeley,1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: That Eurasian
+url: http://www.gutenberg.org/ebooks/69717
